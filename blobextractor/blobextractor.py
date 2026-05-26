@@ -512,7 +512,7 @@ def print_summary():
 def main():
     check_python_version()
     console.print(Panel.fit(
-        "MoxieOS Firmware Blob Extractor v11.0\n[dim]Drop factory .zip into input/ and run[/dim]",
+        "MoxieOS Firmware Blob Extractor v0.9\n[dim]Drop factory image into input/ and run[/dim]",
         style="bold magenta"
     ))
 
